@@ -1,0 +1,10 @@
+state={
+	id=169
+	name="STATE_169"
+	provinces={
+		854 1381 2020 2056 2372 2874 2923 5954 6989 7014 7073 7084 7119 7159 7160 7165 7208 7251 7262 7299 7347 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

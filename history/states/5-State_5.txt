@@ -1,0 +1,14 @@
+state={
+	id=5
+	name="STATE_5"
+	provinces={
+		330 1474 1904 4222 4693 5177 5708 5817 7844 7845 7853 7860 7866 7899 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000200
+        state_category = town
+		history = {
+			owner = TST
+			add_core_of = TST
+		}
+}

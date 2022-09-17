@@ -1,0 +1,131 @@
+ideas = {
+	country = {
+		generic_new_legislation_dragon = {
+			allowed_civil_war = {
+				always = yes
+			}
+			allowed = {
+				has_government = democratic
+			}
+			picture = idea_generic_political_support
+			removal_cost = -1
+			modifier = {
+				stability_weekly = 0.001
+				political_power_gain = 0.3
+			}
+		}
+		generic_state_run_economy = {
+			allowed_civil_war = {
+				always = yes
+			}
+			allowed = {
+				has_government = communism
+			}
+			picture = idea_generic_central_management
+			removal_cost = -1
+			modifier = {
+				production_speed_industrial_complex_factor = 0.05
+				production_speed_arms_factory_factor = 0.05
+				political_power_gain = -0.01
+			}
+		}
+		generic_national_pride = {
+			allowed_civil_war = {
+				always = yes
+			}
+			allowed = {
+				has_government = fascism
+			}
+			picture = idea_generic_military_youth
+			removal_cost = -1
+			modifier = {
+				conscription_factor = 0.02
+				army_attack_factor = 0.025
+			}
+		}
+		industry_boom = {
+
+			picture = generic_goods_red_bonus
+			allowed = {
+				always = no
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+	
+			removal_cost = -1
+	
+			modifier = {
+				production_speed_buildings_factor = 0.05
+				consumer_goods_factor = -0.025
+			}
+		}
+		industrial_revolution = {
+			picture = man_five_year_plan_industry
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				production_speed_buildings_factor = 0.1
+				consumer_goods_factor = -0.05
+				global_building_slots_factor = 0.05
+			}
+		}
+		democratic_support = {
+			picture = generic_democratic_reformer_eastern_european_2d
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				democratic_drift = 0.1
+				democratic_acceptance = 10
+			}
+			
+		}
+		railway_effort = {
+			picture = generic_improve_infrastructure
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				production_speed_railway_factor = 0.1
+			}
+		}
+		logistics_effort = {
+			picture = generic_logistics_effort
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				production_speed_railway_factor = 0.15
+				production_speed_supply_hub_factor = 0.1
+			}
+		}
+	}
+}

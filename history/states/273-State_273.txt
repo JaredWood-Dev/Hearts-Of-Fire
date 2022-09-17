@@ -1,0 +1,14 @@
+state={
+	id=273
+	name="STATE_273"
+	provinces={
+		779 2495 3992 5208 8171 8175 8186 8200 8212 8255 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+		history = {
+			owner = TST
+			add_core_of = TST
+		}
+}

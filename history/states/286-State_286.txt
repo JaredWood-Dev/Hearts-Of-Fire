@@ -1,0 +1,16 @@
+state={
+	id=286
+	name="STATE_286"
+	provinces={
+		58 773 1111 1385 1756 1991 2877 3899 4759 5887 8248 8258 8294 8336 8346 8383 8388 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+
+		history = {
+			owner = TEJ
+			add_core_of = TEJ
+		}
+	
+}

@@ -1,0 +1,10 @@
+state={
+	id=48
+	name="STATE_48"
+	provinces={
+		85 326 774 840 858 1384 2844 3967 4451 4461 5230 5856 6086 6087 6095 6107 6126 6132 6150 6151 6155 6158 6170 6174 6175 6177 6193 6197 6203 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

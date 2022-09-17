@@ -1,0 +1,3 @@
+TST = "countries/Test.txt"
+TEX = "countries/Texas.txt"
+TEJ = "countries/Tejas.txt"

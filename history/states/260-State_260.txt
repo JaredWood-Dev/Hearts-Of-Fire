@@ -1,0 +1,14 @@
+state={
+	id=260
+	name="STATE_260"
+	provinces={
+		653 949 1454 2072 2157 2380 2855 3612 3685 3834 3996 4128 4671 5138 5398 5743 8004 8030 8078 8107 8108 8109 8136 8154 8157 8192 8196 8213 
+	}
+	buildings_max_level_factor=1.000
+        manpower=400000
+        state_category = city
+	history = {
+		owner = TEX
+		add_core_of = TEX
+	}
+}

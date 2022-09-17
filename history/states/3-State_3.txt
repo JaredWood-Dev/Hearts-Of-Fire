@@ -1,0 +1,14 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		399 535 2956 6646 6695 6738 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+		history = {
+			owner = TST
+			add_core_of = TST
+		}
+}

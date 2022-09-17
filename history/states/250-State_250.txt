@@ -1,0 +1,14 @@
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		2330 2386 4235 4772 7889 7907 7934 7971 7986 8014 8025 8112 8131 8155 19590
+	}
+	buildings_max_level_factor=1.000
+        manpower=3101010
+        state_category = large_city
+		history = {
+			owner = TEX
+			add_core_of = TEX
+		}
+}
